@@ -1,4 +1,5 @@
 // ! rsc - (Creates a React component class with ES7 module system (ES7+ React/Redux/React-Native snippets))
+
 import React from 'react';
 import './Header.css'
 import logo from '../../assets/images/Logo.svg'
